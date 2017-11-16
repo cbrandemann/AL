@@ -12,9 +12,7 @@
   "logo": "",
   "capabilities": [],
   "platform": "10.0.0.0",
-  "application": {
-    "version": "10.0.0.0",
-    "locale": "US"
-  },
-  "screenshots": []
+  "application": "11.0.0.0" ,
+  "screenshots": [],
+  "idRange": { "from": 50100, "to": 50149 }  
 }

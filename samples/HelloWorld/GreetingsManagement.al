@@ -4,7 +4,7 @@
 // ------------------------------------------------------------------------------------------------
 
 // Codeunit for creating random greetings
-codeunit 70051100 GreetingsManagement
+codeunit 50101 GreetingsManagement
 {
     // Get a translated 'Hello World' string.
     // Thanks to https://www.bing.com/translator/
